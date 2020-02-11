@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="71200" started-at="2020-02-10T13:18:56Z" finished-at="2020-02-10T13:20:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="71200" started-at="2020-02-10T13:18:56Z" finished-at="2020-02-10T13:20:07Z">
+      <class name="com.zoho.qa.tests.InventoryPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.zoho.qa.tests.InventoryPageTest@6e3c1e69]" name="setUp" is-config="true" duration-ms="67314" started-at="2020-02-10T18:48:56Z" finished-at="2020-02-10T18:50:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validatePageTitleTest()[pri:0, instance:com.zoho.qa.tests.InventoryPageTest@6e3c1e69]" name="validatePageTitleTest" duration-ms="56" started-at="2020-02-10T18:50:03Z" finished-at="2020-02-10T18:50:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePageTitleTest -->
+        <test-method status="PASS" signature="clickOnItemsTest()[pri:0, instance:com.zoho.qa.tests.InventoryPageTest@6e3c1e69]" name="clickOnItemsTest" duration-ms="146" started-at="2020-02-10T18:50:03Z" finished-at="2020-02-10T18:50:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnItemsTest -->
+        <test-method status="PASS" signature="clickOnItemsGroupTest()[pri:0, instance:com.zoho.qa.tests.InventoryPageTest@6e3c1e69]" name="clickOnItemsGroupTest" duration-ms="2399" started-at="2020-02-10T18:50:03Z" finished-at="2020-02-10T18:50:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnItemsGroupTest -->
+        <test-method status="PASS" signature="clickOnNewTest()[pri:0, instance:com.zoho.qa.tests.InventoryPageTest@6e3c1e69]" name="clickOnNewTest" duration-ms="182" started-at="2020-02-10T18:50:06Z" finished-at="2020-02-10T18:50:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnNewTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.zoho.qa.tests.InventoryPageTest@6e3c1e69]" name="tearDown" is-config="true" duration-ms="1039" started-at="2020-02-10T18:50:06Z" finished-at="2020-02-10T18:50:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.zoho.qa.tests.InventoryPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
